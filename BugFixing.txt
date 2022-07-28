@@ -108,7 +108,7 @@ public class Main {
        	}
          }
           if(v!=1) {
-     	System.out.println("Element not found");
+     	System.out.println("Expenditure not found");
         }
  }
     private static void sortExpenses(ArrayList<Integer> arrayList) {
